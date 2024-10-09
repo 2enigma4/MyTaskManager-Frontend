@@ -1,6 +1,7 @@
 ### Clone the project
 
 git clone https://github.com/2enigma4/MyTaskManager-Frontend.git
+
 cd Project-FolderName
 
 ### npm install
